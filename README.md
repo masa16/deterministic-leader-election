@@ -1,1 +1,1 @@
-![Screenshot of TLA+](images/screenshot.png)
+![Screenshot of TLA+](screenshot.png)
